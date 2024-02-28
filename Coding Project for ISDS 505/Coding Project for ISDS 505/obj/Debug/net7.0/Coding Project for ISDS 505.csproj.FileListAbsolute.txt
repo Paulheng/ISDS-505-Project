@@ -13,3 +13,18 @@
 /Users/macbookpro/Library/CloudStorage/OneDrive-CalStateFullerton/Fullerton/ISDS 505/Coding Project for ISDS 505/Coding Project for ISDS 505/obj/Debug/net7.0/Coding Project for ISDS 505.pdb
 /Users/macbookpro/Library/CloudStorage/OneDrive-CalStateFullerton/Fullerton/ISDS 505/Coding Project for ISDS 505/Coding Project for ISDS 505/obj/Debug/net7.0/Coding Project for ISDS 505.genruntimeconfig.cache
 /Users/macbookpro/Library/CloudStorage/OneDrive-CalStateFullerton/Fullerton/ISDS 505/Coding Project for ISDS 505/Coding Project for ISDS 505/obj/Debug/net7.0/ref/Coding Project for ISDS 505.dll
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\bin\Debug\net7.0\Coding Project for ISDS 505.exe
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\bin\Debug\net7.0\Coding Project for ISDS 505.deps.json
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\bin\Debug\net7.0\Coding Project for ISDS 505.runtimeconfig.json
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\bin\Debug\net7.0\Coding Project for ISDS 505.dll
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\bin\Debug\net7.0\Coding Project for ISDS 505.pdb
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\obj\Debug\net7.0\Coding Project for ISDS 505.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\obj\Debug\net7.0\Coding Project for ISDS 505.AssemblyInfoInputs.cache
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\obj\Debug\net7.0\Coding Project for ISDS 505.AssemblyInfo.cs
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\obj\Debug\net7.0\Coding Project for ISDS 505.csproj.CoreCompileInputs.cache
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\obj\Debug\net7.0\Coding Project for ISDS 505.sourcelink.json
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\obj\Debug\net7.0\Coding Project for ISDS 505.dll
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\obj\Debug\net7.0\refint\Coding Project for ISDS 505.dll
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\obj\Debug\net7.0\Coding Project for ISDS 505.pdb
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\obj\Debug\net7.0\Coding Project for ISDS 505.genruntimeconfig.cache
+C:\Users\Surface Laptop 4\Source\Repos\Paulheng\ISDS-505-Project\Coding Project for ISDS 505\Coding Project for ISDS 505\obj\Debug\net7.0\ref\Coding Project for ISDS 505.dll
